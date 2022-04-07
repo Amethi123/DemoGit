@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="65" started-at="2021-10-09T12:33:11Z" finished-at="2021-10-09T12:33:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="65" started-at="2021-10-09T12:33:11Z" finished-at="2021-10-09T12:33:11Z">
+      <class name="qaclickacademy.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacademy.MavenJava.SeleniumTest@2f112965]" name="BrowserAutomation" duration-ms="23" started-at="2021-10-09T18:03:11Z" finished-at="2021-10-09T18:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:qaclickacademy.MavenJava.SeleniumTest@2f112965]" name="elementsUI" duration-ms="1" started-at="2021-10-09T18:03:11Z" finished-at="2021-10-09T18:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- qaclickacademy.MavenJava.SeleniumTest -->
+      <class name="qaclickacademy.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:qaclickacademy.MavenJava.AppiumTest@d4342c2]" name="IOSApps" duration-ms="1" started-at="2021-10-09T18:03:11Z" finished-at="2021-10-09T18:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:qaclickacademy.MavenJava.AppiumTest@d4342c2]" name="NativeAppAndroid" duration-ms="9" started-at="2021-10-09T18:03:11Z" finished-at="2021-10-09T18:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- qaclickacademy.MavenJava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
